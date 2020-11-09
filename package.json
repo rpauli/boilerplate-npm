@@ -1,6 +1,6 @@
 {
-	"author":"Robin Pauli",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Robin Pauli",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
